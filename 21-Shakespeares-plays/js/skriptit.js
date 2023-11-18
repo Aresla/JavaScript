@@ -63,4 +63,6 @@ const toStyle = () => {
 
     const btn = document.getElementById("btn");
     btn.disabled = true;
+
+    document.body.style.fontSize = "1rem";
 }
